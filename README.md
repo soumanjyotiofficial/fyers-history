@@ -11,7 +11,11 @@ This library solves that limitation by automatically splitting long ranges into 
 
 Install the package using pip.
 
-pip install fyers-history
+download  dist/fyers_history-0.1.0.tar.gz file
+
+Open comand prompt in download folder run the below command
+
+pip install fyers_history-0.1.0.tar.gz
 
 ---
 
